@@ -1,0 +1,22 @@
+.form-group > input::placeholder {
+    color: white;
+}
+
+.special:hover {
+    background-color: tomato !important;
+}
+
+
+.container {
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.button:hover {
+    color: tomato !important;
+    border-color: tomato;
+}
+
+.sai {
+    margin-bottom: -100px;
+}
